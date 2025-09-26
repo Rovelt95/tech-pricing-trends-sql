@@ -1,0 +1,241 @@
+contract_id,company,contract_date,region,product_segment,channel,units,price_per_unit,revenue
+1,Microsoft,2023-08-02,North America,More Personal Computing,Direct,160,186.73,29876.8
+2,Microsoft,2020-10-12,North America,More Personal Computing,Online,476,231.8,110336.8
+3,Microsoft,2023-04-24,LatAm,Intelligent Cloud,Direct,67,443.73,29729.91
+4,Microsoft,2022-10-31,North America,Intelligent Cloud,Online,386,529.98,204572.28
+5,Microsoft,2023-01-21,LatAm,Productivity & Business Processes,Direct,321,291.73,93645.33
+6,Microsoft,2024-11-15,North America,More Personal Computing,Direct,236,201.04,47445.44
+7,Microsoft,2020-11-14,Europe,Intelligent Cloud,Partner,67,475.99,31891.33
+8,Microsoft,2022-01-05,Asia,Productivity & Business Processes,Online,433,256.52,111073.16
+9,Microsoft,2022-07-29,North America,Intelligent Cloud,Partner,302,458.64,138509.28
+10,Microsoft,2023-07-11,Asia,Intelligent Cloud,Online,380,413.91,157285.8
+11,Microsoft,2023-09-16,Europe,Intelligent Cloud,Partner,457,446.56,204077.92
+12,Microsoft,2020-07-25,LatAm,Productivity & Business Processes,Partner,345,375.12,129416.4
+13,Microsoft,2020-11-29,Asia,Intelligent Cloud,Partner,363,453.4,164584.2
+14,Microsoft,2023-10-31,North America,More Personal Computing,Online,107,230.12,24622.84
+15,Microsoft,2021-05-16,Europe,Productivity & Business Processes,Partner,158,398.43,62951.94
+16,Microsoft,2023-08-03,Europe,Productivity & Business Processes,Online,451,365.25,164727.75
+17,Microsoft,2020-04-24,Europe,Productivity & Business Processes,Direct,225,290.16,65286.0
+18,Microsoft,2021-03-08,Asia,More Personal Computing,Direct,275,209.34,57568.5
+19,Microsoft,2023-08-09,LatAm,Productivity & Business Processes,Direct,91,286.99,26116.09
+20,Microsoft,2023-02-23,Asia,More Personal Computing,Online,239,284.67,68036.13
+21,Microsoft,2022-03-28,Asia,Intelligent Cloud,Direct,280,498.7,139636.0
+22,Microsoft,2024-03-27,North America,Intelligent Cloud,Direct,341,432.0,147312.0
+23,Microsoft,2023-10-25,LatAm,Intelligent Cloud,Online,217,476.32,103361.44
+24,Microsoft,2022-08-16,Asia,Intelligent Cloud,Online,368,544.14,200243.52
+25,Microsoft,2023-10-28,Asia,Productivity & Business Processes,Online,77,294.03,22640.31
+26,Microsoft,2020-11-19,LatAm,More Personal Computing,Direct,468,257.95,120720.6
+27,Microsoft,2022-10-22,Europe,Intelligent Cloud,Online,465,525.06,244152.9
+28,Microsoft,2024-09-19,Europe,Productivity & Business Processes,Direct,410,274.23,112434.3
+29,Microsoft,2024-05-13,North America,Productivity & Business Processes,Online,270,252.92,68288.4
+30,Microsoft,2022-01-13,Asia,Intelligent Cloud,Direct,143,575.6,82310.8
+31,Microsoft,2020-06-10,North America,Productivity & Business Processes,Online,437,260.38,113786.06
+32,Microsoft,2024-04-06,Europe,More Personal Computing,Direct,263,292.03,76803.89
+33,Microsoft,2020-12-04,Asia,More Personal Computing,Online,236,294.65,69537.4
+34,Microsoft,2023-01-09,Europe,Productivity & Business Processes,Online,224,399.27,89436.48
+35,Microsoft,2023-08-23,Asia,More Personal Computing,Partner,251,168.15,42205.65
+36,Microsoft,2021-04-05,North America,Intelligent Cloud,Partner,321,510.78,163960.38
+37,Microsoft,2023-04-20,Europe,Intelligent Cloud,Direct,382,526.22,201016.04
+38,Microsoft,2021-04-13,North America,Productivity & Business Processes,Direct,56,327.12,18318.72
+39,Microsoft,2021-07-24,LatAm,More Personal Computing,Direct,87,258.5,22489.5
+40,Microsoft,2024-12-12,LatAm,Productivity & Business Processes,Direct,433,311.06,134688.98
+41,Microsoft,2020-07-12,North America,Productivity & Business Processes,Online,201,313.54,63021.54
+42,Microsoft,2022-08-14,North America,More Personal Computing,Online,350,164.76,57666.0
+43,Microsoft,2022-04-04,Asia,Intelligent Cloud,Direct,118,438.04,51688.72
+44,Microsoft,2022-07-07,Europe,Intelligent Cloud,Partner,162,492.53,79789.86
+45,Microsoft,2024-11-25,North America,More Personal Computing,Partner,70,157.59,11031.3
+46,Microsoft,2023-01-12,North America,Intelligent Cloud,Direct,105,481.28,50534.4
+47,Microsoft,2022-09-12,Europe,Intelligent Cloud,Partner,104,475.79,49482.16
+48,Microsoft,2022-03-10,Asia,Productivity & Business Processes,Partner,236,354.49,83659.64
+49,Microsoft,2024-02-05,LatAm,Intelligent Cloud,Direct,171,443.54,75845.34
+50,Microsoft,2020-04-29,North America,Productivity & Business Processes,Online,49,257.52,12618.48
+51,Microsoft,2022-09-03,Europe,More Personal Computing,Direct,61,277.7,16939.7
+52,Microsoft,2020-05-20,North America,Intelligent Cloud,Online,226,423.98,95819.48
+53,Microsoft,2024-12-28,Europe,More Personal Computing,Online,40,242.91,9716.4
+54,Microsoft,2022-05-08,Asia,Intelligent Cloud,Partner,362,543.24,196652.88
+55,Microsoft,2021-05-03,Asia,Intelligent Cloud,Partner,363,529.1,192063.3
+56,Microsoft,2022-07-25,Asia,Intelligent Cloud,Direct,254,524.23,133154.42
+57,Microsoft,2023-02-27,North America,More Personal Computing,Direct,129,225.88,29138.52
+58,Microsoft,2020-09-28,Asia,Intelligent Cloud,Direct,209,457.0,95513.0
+59,Microsoft,2022-06-16,Asia,More Personal Computing,Online,290,151.17,43839.3
+60,Microsoft,2024-07-31,Asia,Intelligent Cloud,Online,500,575.63,287815.0
+61,Microsoft,2021-06-25,North America,More Personal Computing,Direct,303,173.32,52515.96
+62,Microsoft,2021-07-31,Europe,Productivity & Business Processes,Online,124,353.12,43786.88
+63,Microsoft,2024-10-12,Asia,Productivity & Business Processes,Online,148,385.8,57098.4
+64,Microsoft,2024-09-28,North America,More Personal Computing,Direct,236,274.4,64758.4
+65,Microsoft,2020-03-31,North America,Intelligent Cloud,Partner,346,595.96,206202.16
+66,Microsoft,2020-11-26,LatAm,More Personal Computing,Online,238,234.14,55725.32
+67,Microsoft,2020-08-17,North America,Intelligent Cloud,Online,299,407.21,121755.79
+68,Microsoft,2022-01-26,Europe,Intelligent Cloud,Partner,41,461.65,18927.65
+69,Microsoft,2024-06-18,North America,Intelligent Cloud,Partner,369,449.91,166016.79
+70,Microsoft,2020-07-29,Asia,Productivity & Business Processes,Online,337,362.42,122135.54
+71,Microsoft,2021-04-29,Europe,Productivity & Business Processes,Direct,32,276.9,8860.8
+72,Microsoft,2021-11-11,LatAm,More Personal Computing,Online,435,187.23,81445.05
+73,Microsoft,2020-11-22,North America,Intelligent Cloud,Partner,459,494.14,226810.26
+74,Microsoft,2021-02-12,LatAm,Productivity & Business Processes,Partner,440,369.3,162492.0
+75,Microsoft,2021-04-11,Europe,More Personal Computing,Direct,118,209.77,24752.86
+76,Microsoft,2021-07-24,North America,Productivity & Business Processes,Partner,348,326.41,113590.68
+77,Microsoft,2023-10-23,Asia,Intelligent Cloud,Direct,469,594.08,278623.52
+78,Microsoft,2020-12-31,Asia,Intelligent Cloud,Direct,325,486.91,158245.75
+79,Microsoft,2024-02-01,Asia,More Personal Computing,Partner,281,167.35,47025.35
+80,Microsoft,2023-03-26,Europe,Intelligent Cloud,Partner,382,487.21,186114.22
+81,Microsoft,2022-11-30,Europe,Productivity & Business Processes,Partner,55,392.33,21578.15
+82,Microsoft,2021-11-07,Asia,Intelligent Cloud,Online,388,580.01,225043.88
+83,Microsoft,2022-11-04,Asia,Productivity & Business Processes,Online,187,310.36,58037.32
+84,Microsoft,2021-08-28,Europe,Productivity & Business Processes,Direct,360,391.05,140778.0
+85,Microsoft,2023-10-19,Europe,More Personal Computing,Online,174,210.91,36698.34
+86,Microsoft,2024-09-03,North America,Productivity & Business Processes,Partner,127,314.48,39938.96
+87,Microsoft,2023-04-02,Asia,Productivity & Business Processes,Partner,246,351.34,86429.64
+88,Microsoft,2022-11-12,LatAm,Intelligent Cloud,Online,357,416.96,148854.72
+89,Microsoft,2022-11-21,Asia,Intelligent Cloud,Direct,364,462.08,168197.12
+90,Microsoft,2024-07-09,Europe,Intelligent Cloud,Direct,43,448.97,19305.71
+91,Microsoft,2022-08-31,North America,Productivity & Business Processes,Partner,473,344.46,162929.58
+92,Microsoft,2021-02-02,LatAm,Productivity & Business Processes,Partner,144,272.14,39188.16
+93,Microsoft,2023-11-09,North America,Productivity & Business Processes,Direct,132,276.38,36482.16
+94,Microsoft,2023-11-26,LatAm,More Personal Computing,Direct,147,287.62,42280.14
+95,Microsoft,2020-09-05,LatAm,Productivity & Business Processes,Direct,361,329.67,119010.87
+96,Microsoft,2023-02-18,Asia,More Personal Computing,Partner,437,257.89,112697.93
+97,Microsoft,2022-10-30,LatAm,Productivity & Business Processes,Online,479,273.87,131183.73
+98,Microsoft,2024-10-30,LatAm,Productivity & Business Processes,Partner,404,287.09,115984.36
+99,Microsoft,2023-07-29,Asia,Productivity & Business Processes,Online,340,285.89,97202.6
+100,Microsoft,2022-06-19,North America,Productivity & Business Processes,Online,140,290.76,40706.4
+101,Microsoft,2021-10-16,North America,Intelligent Cloud,Direct,138,476.61,65772.18
+102,Microsoft,2020-11-08,Europe,Productivity & Business Processes,Direct,228,299.63,68315.64
+103,Microsoft,2022-08-12,LatAm,Intelligent Cloud,Direct,446,484.03,215877.38
+104,Microsoft,2024-04-25,North America,Productivity & Business Processes,Online,264,250.88,66232.32
+105,Microsoft,2021-12-21,Asia,Productivity & Business Processes,Partner,295,362.13,106828.35
+106,Microsoft,2023-01-23,Europe,Intelligent Cloud,Partner,159,487.17,77460.03
+107,Microsoft,2020-02-29,LatAm,More Personal Computing,Partner,367,269.72,98987.24
+108,Microsoft,2024-01-23,Europe,Intelligent Cloud,Partner,338,506.82,171305.16
+109,Microsoft,2022-03-17,North America,More Personal Computing,Direct,239,170.35,40713.65
+110,Microsoft,2022-08-03,Europe,Productivity & Business Processes,Direct,214,299.1,64007.4
+111,Microsoft,2022-07-20,Asia,Productivity & Business Processes,Partner,162,362.8,58773.6
+112,Microsoft,2024-08-30,LatAm,Intelligent Cloud,Partner,260,403.88,105008.8
+113,Microsoft,2023-01-09,North America,Intelligent Cloud,Partner,352,413.72,145629.44
+114,Microsoft,2023-08-27,North America,Intelligent Cloud,Direct,122,567.85,69277.7
+115,Microsoft,2023-06-26,Europe,Intelligent Cloud,Direct,262,533.89,139879.18
+116,Microsoft,2023-03-01,Europe,More Personal Computing,Partner,151,265.03,40019.53
+117,Microsoft,2020-12-09,North America,Productivity & Business Processes,Direct,75,336.8,25260.0
+118,Microsoft,2021-09-30,LatAm,More Personal Computing,Partner,121,161.4,19529.4
+119,Microsoft,2023-11-15,Europe,More Personal Computing,Direct,415,195.24,81024.6
+120,Microsoft,2023-11-02,North America,Intelligent Cloud,Online,197,506.55,99790.35
+121,Oracle,2023-09-16,Asia,Hardware,Direct,26,184.96,4808.96
+122,Oracle,2024-08-11,LatAm,Services,Direct,205,213.56,43779.8
+123,Oracle,2024-08-24,LatAm,Cloud License & On-Prem License,Online,242,226.42,54793.64
+124,Oracle,2022-12-04,Asia,Services,Online,258,193.56,49938.48
+125,Oracle,2024-02-06,Asia,Cloud License & On-Prem License,Partner,445,340.19,151384.55
+126,Oracle,2021-07-25,LatAm,Services,Direct,311,211.03,65630.33
+127,Oracle,2022-02-15,Asia,Services,Direct,455,182.5,83037.5
+128,Oracle,2022-09-25,Europe,Hardware,Partner,194,127.97,24826.18
+129,Oracle,2023-05-05,Asia,Cloud Services & License Support,Online,284,492.21,139787.64
+130,Oracle,2020-06-24,Europe,Services,Online,270,205.52,55490.4
+131,Oracle,2021-05-07,LatAm,Services,Online,249,229.29,57093.21
+132,Oracle,2020-07-09,Asia,Services,Direct,374,174.33,65199.42
+133,Oracle,2023-09-21,Asia,Hardware,Partner,237,199.66,47319.42
+134,Oracle,2023-02-01,Asia,Services,Partner,158,180.66,28544.28
+135,Oracle,2021-04-17,North America,Cloud License & On-Prem License,Online,181,217.93,39445.33
+136,Oracle,2023-01-02,Europe,Cloud License & On-Prem License,Direct,398,272.63,108506.74
+137,Oracle,2024-01-23,Asia,Cloud License & On-Prem License,Direct,171,234.12,40034.52
+138,Oracle,2021-01-02,Asia,Cloud License & On-Prem License,Direct,160,206.83,33092.8
+139,Oracle,2020-04-21,Asia,Cloud License & On-Prem License,Online,346,330.27,114273.42
+140,Oracle,2022-10-02,North America,Hardware,Direct,260,147.87,38446.2
+141,Oracle,2021-11-28,Europe,Hardware,Direct,461,147.77,68121.97
+142,Oracle,2024-08-10,North America,Services,Partner,57,207.7,11838.9
+143,Oracle,2023-11-06,North America,Cloud License & On-Prem License,Direct,435,284.43,123727.05
+144,Oracle,2021-09-14,North America,Cloud Services & License Support,Direct,305,464.67,141724.35
+145,Oracle,2023-05-26,Europe,Services,Online,250,240.85,60212.5
+146,Oracle,2021-08-31,LatAm,Cloud Services & License Support,Partner,332,494.02,164014.64
+147,Oracle,2020-07-22,Europe,Cloud License & On-Prem License,Online,155,299.06,46354.3
+148,Oracle,2020-11-17,Europe,Cloud Services & License Support,Direct,100,350.4,35040.0
+149,Oracle,2022-07-11,LatAm,Cloud Services & License Support,Partner,138,393.22,54264.36
+150,Oracle,2021-08-02,LatAm,Cloud License & On-Prem License,Direct,493,239.68,118162.24
+151,Oracle,2024-06-08,Europe,Cloud Services & License Support,Partner,298,383.72,114348.56
+152,Oracle,2020-11-01,Asia,Cloud Services & License Support,Direct,50,374.89,18744.5
+153,Oracle,2021-09-21,Asia,Cloud Services & License Support,Partner,259,453.3,117404.7
+154,Oracle,2023-12-04,LatAm,Services,Partner,244,158.04,38561.76
+155,Oracle,2020-03-22,LatAm,Hardware,Online,329,125.04,41138.16
+156,Oracle,2020-07-06,Europe,Cloud Services & License Support,Online,411,450.84,185295.24
+157,Oracle,2021-07-05,North America,Services,Direct,285,215.15,61317.75
+158,Oracle,2021-07-23,Europe,Services,Online,345,231.42,79839.9
+159,Oracle,2020-07-05,LatAm,Services,Partner,190,182.11,34600.9
+160,Oracle,2020-08-02,Europe,Services,Partner,375,199.55,74831.25
+161,Oracle,2023-09-18,LatAm,Cloud Services & License Support,Online,252,363.21,91528.92
+162,Oracle,2021-05-31,Asia,Services,Direct,462,201.46,93074.52
+163,Oracle,2020-01-03,LatAm,Cloud Services & License Support,Partner,116,427.77,49621.32
+164,Oracle,2023-06-29,LatAm,Services,Online,409,155.16,63460.44
+165,Oracle,2021-06-30,Europe,Services,Partner,470,219.83,103320.1
+166,Oracle,2020-09-05,North America,Cloud License & On-Prem License,Online,383,223.76,85700.08
+167,Oracle,2023-02-02,North America,Services,Online,67,172.47,11555.49
+168,Oracle,2024-09-19,North America,Cloud Services & License Support,Partner,351,474.82,166661.82
+169,Oracle,2022-10-17,Asia,Hardware,Online,232,183.47,42565.04
+170,Oracle,2022-08-25,Europe,Cloud License & On-Prem License,Partner,216,228.59,49375.44
+171,Oracle,2023-05-12,Europe,Hardware,Direct,415,179.0,74285.0
+172,Oracle,2022-04-29,Asia,Hardware,Online,440,100.26,44114.4
+173,Oracle,2024-01-26,Asia,Services,Online,463,164.86,76330.18
+174,Oracle,2023-01-08,LatAm,Hardware,Partner,302,176.29,53239.58
+175,Oracle,2022-02-11,LatAm,Cloud License & On-Prem License,Partner,377,235.82,88904.14
+176,Oracle,2022-02-23,Europe,Cloud Services & License Support,Partner,182,461.71,84031.22
+177,Oracle,2023-12-15,LatAm,Cloud License & On-Prem License,Partner,273,344.72,94108.56
+178,Oracle,2020-09-15,Asia,Services,Direct,71,202.6,14384.6
+179,Oracle,2022-07-24,North America,Cloud License & On-Prem License,Online,229,330.64,75716.56
+180,Oracle,2020-11-12,North America,Hardware,Partner,193,162.33,31329.69
+181,Oracle,2022-03-25,North America,Services,Partner,182,212.68,38707.76
+182,Oracle,2024-12-22,LatAm,Cloud Services & License Support,Online,336,360.26,121047.36
+183,Oracle,2023-07-16,Asia,Cloud Services & License Support,Direct,242,496.75,120213.5
+184,Oracle,2024-04-06,North America,Cloud License & On-Prem License,Partner,375,244.92,91845.0
+185,Oracle,2020-02-29,North America,Cloud Services & License Support,Partner,170,403.77,68640.9
+186,Oracle,2022-06-01,Europe,Services,Direct,309,218.18,67417.62
+187,Oracle,2021-01-03,Europe,Cloud Services & License Support,Direct,332,480.63,159569.16
+188,Oracle,2023-06-23,Europe,Cloud License & On-Prem License,Partner,138,269.17,37145.46
+189,Oracle,2021-06-04,LatAm,Cloud Services & License Support,Partner,480,470.69,225931.2
+190,Oracle,2021-08-12,Europe,Services,Direct,196,248.77,48758.92
+191,Oracle,2021-09-04,LatAm,Hardware,Online,253,184.53,46686.09
+192,Oracle,2021-02-11,LatAm,Cloud Services & License Support,Partner,141,407.2,57415.2
+193,Oracle,2022-01-05,Asia,Hardware,Online,31,197.79,6131.49
+194,Oracle,2023-09-10,LatAm,Cloud Services & License Support,Partner,309,479.76,148245.84
+195,Oracle,2024-05-12,North America,Services,Online,446,240.42,107227.32
+196,Oracle,2021-08-09,Europe,Hardware,Online,132,163.66,21603.12
+197,Oracle,2023-06-25,Asia,Cloud License & On-Prem License,Online,341,214.57,73168.37
+198,Oracle,2023-07-09,North America,Services,Partner,37,207.96,7694.52
+199,Oracle,2024-02-08,Europe,Hardware,Direct,187,174.75,32678.25
+200,Oracle,2020-12-25,Europe,Hardware,Direct,291,150.18,43702.38
+201,Oracle,2021-07-12,Europe,Services,Partner,432,179.51,77548.32
+202,Oracle,2024-11-17,Asia,Services,Direct,58,164.08,9516.64
+203,Oracle,2021-04-07,LatAm,Hardware,Online,66,179.07,11818.62
+204,Oracle,2020-01-29,Asia,Cloud Services & License Support,Online,252,405.29,102133.08
+205,Oracle,2024-03-13,Asia,Services,Online,441,213.85,94307.85
+206,Oracle,2022-01-30,North America,Cloud License & On-Prem License,Online,261,203.75,53178.75
+207,Oracle,2024-12-15,Asia,Cloud License & On-Prem License,Online,351,209.48,73527.48
+208,Oracle,2024-08-14,LatAm,Hardware,Online,352,140.83,49572.16
+209,Oracle,2020-10-13,North America,Hardware,Direct,272,111.61,30357.92
+210,Oracle,2021-04-25,Europe,Services,Partner,209,217.05,45363.45
+211,Oracle,2024-03-01,LatAm,Cloud License & On-Prem License,Online,473,262.23,124034.79
+212,Oracle,2020-07-21,LatAm,Services,Online,500,245.15,122575.0
+213,Oracle,2020-03-08,Asia,Services,Direct,247,245.06,60529.82
+214,Oracle,2024-10-17,Asia,Hardware,Direct,298,190.17,56670.66
+215,Oracle,2023-08-13,Asia,Services,Direct,161,168.98,27205.78
+216,Oracle,2020-09-07,LatAm,Cloud License & On-Prem License,Direct,348,295.92,102980.16
+217,Oracle,2020-02-13,North America,Cloud License & On-Prem License,Partner,84,318.05,26716.2
+218,Oracle,2021-02-24,North America,Cloud License & On-Prem License,Online,320,232.39,74364.8
+219,Oracle,2024-11-16,Europe,Cloud License & On-Prem License,Partner,423,335.08,141738.84
+220,Oracle,2020-01-06,Asia,Cloud License & On-Prem License,Direct,296,237.6,70329.6
+221,Oracle,2020-12-23,North America,Cloud Services & License Support,Online,87,352.23,30644.01
+222,Oracle,2024-06-05,Europe,Hardware,Online,28,117.42,3287.76
+223,Oracle,2020-04-17,Europe,Services,Online,289,161.36,46633.04
+224,Oracle,2020-05-10,LatAm,Hardware,Partner,282,159.37,44942.34
+225,Oracle,2022-07-14,Europe,Cloud Services & License Support,Online,392,467.48,183252.16
+226,Oracle,2024-11-10,Asia,Cloud Services & License Support,Partner,51,499.79,25489.29
+227,Oracle,2024-10-01,LatAm,Cloud Services & License Support,Partner,271,456.86,123809.06
+228,Oracle,2022-06-27,North America,Hardware,Direct,331,114.83,38008.73
+229,Oracle,2020-09-15,Asia,Hardware,Online,215,199.46,42883.9
+230,Oracle,2022-12-22,Asia,Services,Partner,70,229.31,16051.7
+231,Oracle,2020-08-22,Europe,Services,Partner,474,172.85,81930.9
+232,Oracle,2021-11-25,LatAm,Services,Partner,393,159.51,62687.43
+233,Oracle,2022-05-24,Asia,Hardware,Online,211,195.36,41220.96
+234,Oracle,2023-11-07,LatAm,Cloud Services & License Support,Direct,445,362.8,161446.0
+235,Oracle,2022-06-03,North America,Hardware,Online,435,113.01,49159.35
+236,Oracle,2020-05-02,Asia,Cloud Services & License Support,Online,230,403.04,92699.2
+237,Oracle,2023-09-24,LatAm,Cloud Services & License Support,Online,167,440.06,73490.02
+238,Oracle,2021-12-21,North America,Cloud License & On-Prem License,Online,99,298.51,29552.49
+239,Oracle,2021-04-04,North America,Hardware,Partner,78,176.26,13748.28
+240,Oracle,2023-03-21,Europe,Cloud Services & License Support,Partner,331,489.36,161978.16
